@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCRUM", "SCRUM\SCRUM.csproj", "{16BB7E15-5582-4501-8CC8-48CFD979709D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BB7E15-5582-4501-8CC8-48CFD979709D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BB7E15-5582-4501-8CC8-48CFD979709D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BB7E15-5582-4501-8CC8-48CFD979709D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BB7E15-5582-4501-8CC8-48CFD979709D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7640D9FD-7AA9-49CA-9967-9E3CD86AF800}
+	EndGlobalSection
+EndGlobal

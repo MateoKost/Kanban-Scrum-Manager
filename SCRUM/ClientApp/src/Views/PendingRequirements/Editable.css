@@ -1,0 +1,10 @@
+.editable-row .ant-form-item-explain {
+  position: absolute;
+  top: 100%;
+  font-size: 12px;
+}
+
+.site-button-ghost-wrapper {
+  padding: 26px 16px 16px;
+  background: rgb(58, 153, 153);
+}

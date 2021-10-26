@@ -1,0 +1,46 @@
+.row-dragging {
+  background: #fafafa;
+  border: 1px solid #ccc;
+}
+
+.row-dragging td {
+  padding-left: 15px;
+}
+
+.row-dragging .drag-visible {
+  visibility: visible;
+}
+
+.card-no-space {
+  border: 0 !important;
+}
+
+.card-no-space>.ant-card-body {
+  padding: 0 !important;
+}
+
+.card-no-space>.ant-card-body td+td {
+  padding: 8px 0 0 0 !important;
+}
+
+.card-no-space .card-no-space div {
+  padding: 0 !important;
+  background-color: transparent !important;
+  border: 0 !important;
+}
+
+.card-no-space {
+  border: 0 !important;
+}
+
+text {
+  word-wrap: normal 
+}
+
+.ant-card-head {
+  word-wrap: normal 
+}
+
+.ant-card-actions {
+  border: 0 !important;
+}

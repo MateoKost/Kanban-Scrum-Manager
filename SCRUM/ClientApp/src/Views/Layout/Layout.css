@@ -1,0 +1,30 @@
+ .site-layout-content {
+   min-height: 280px;
+   padding: 24px;
+   background: #f0f2f5;
+   display: flex;
+   flex-flow: column;
+   height: 100%;
+ }
+
+ .logo {
+   float: left;
+   width: 200px;
+   height: 31px;
+   margin: 12px 24px 16px 0;
+   text-align: center;
+   /* background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='50px' width='120px'><text x='0' y='15' fill='white' font-size='20'>SI Kanban</text></svg>"); */
+ }
+
+ .logo h3 {
+   color: white;
+ }
+
+ .ant-row-rtl .logo {
+   float: right;
+   margin: 12px 0 16px 24px;
+ }
+
+ [data-theme="dark"] .site-layout-content {
+   background: #141414;
+ }

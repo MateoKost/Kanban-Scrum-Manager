@@ -1,0 +1,34 @@
+﻿a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #8c8c8c;
+  border-color: #1861ac;
+}
+
+.ant-menu>.ant-menu-item:hover, .ant-menu>.ant-menu-submenu:hover, .ant-menu>.ant-menu-item-active, .ant-menu>.ant-menu-submenu-active, .ant-menu>.ant-menu-item-open, .ant-menu>.ant-menu-submenu-open, .ant-menu>.ant-menu-item-selected, .ant-menu>.ant-menu-submenu-selected {
+  background-color: grey;
+}
+
+.modified-item, .modified-item:hover, .modified-item-active, .modified-item-open, .modified-item-selected {
+  background-color: #001529 !important;
+  color: white;
+}

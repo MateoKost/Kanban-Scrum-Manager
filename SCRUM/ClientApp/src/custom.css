@@ -1,0 +1,35 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+#root{
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  background: #f0f2f5;
+}
+
+/* Table {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+} */
+
+.ant-menu-overflow {
+  display: block !important;
+}
+
+.ant-modal-footer {
+  padding: 10px 24px !important;
+}
